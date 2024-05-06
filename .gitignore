@@ -11,7 +11,6 @@
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
 /wp-includes/
-/index.php
 /license.txt
 /readme.html
 /wp-*.php
@@ -35,6 +34,7 @@ wp-config.php
 # htaccess
 /.htaccess
 
+.idea
 # All plugins
 #
 # Note: If you wish to whitelist plugins,
